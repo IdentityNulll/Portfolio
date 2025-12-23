@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+/* fonts ->  */
+
+@font-face {
+  font-family: "Funnel";
+  src: url("./assets/fonts/funnel/FunnelDisplay-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Caveat";
+  src: url("./assets/fonts/caveat/Caveat-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Jersey";
+  src: url("./assets/fonts/jersey/Jersey10-Regular.ttf");
+}
+
+/* fonts end ------ */
+
+/* needed styles */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
